@@ -1,0 +1,33 @@
+{
+  "name": "maze-gen-cli",
+  "version": "1.0.0",
+  "description": "Generate random ASCII mazes from the command line. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "maze-gen": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js --width 5 --height 5"
+  },
+  "keywords": [
+    "maze",
+    "generator",
+    "ascii",
+    "cli",
+    "random",
+    "puzzle",
+    "terminal"
+  ],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/maze-gen-cli"
+  },
+  "homepage": "https://github.com/kszongic/maze-gen-cli#readme",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
