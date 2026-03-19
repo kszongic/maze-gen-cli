@@ -1,5 +1,5 @@
 {
-  "name": "maze-gen-cli",
+  "name": "@kszongic/maze-gen-cli",
   "version": "1.0.0",
   "description": "Generate random ASCII mazes from the command line. Zero dependencies.",
   "main": "index.js",
